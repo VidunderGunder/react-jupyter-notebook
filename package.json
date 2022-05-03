@@ -1,13 +1,13 @@
 {
-  "name": "react-jupyter-notebook",
+  "name": "react-jupyter-notebook-no-global-css",
   "version": "0.3.2",
-  "homepage": "https://Joeyonng.github.io/react-jupyter-notebook",
+  "homepage": "https://github.com/VidunderGunder/react-jupyter-notebook",
   "license": "MIT",
   "private": false,
   "description": "A simple React component that renders .ipynb files just like how they are rendered by Jupyter Lab",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Joeyonng/react-jupyter-notebook"
+    "url": "https://github.com/VidunderGunder/react-jupyter-notebook"
   },
   "keywords": [
     "React",

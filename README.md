@@ -1,3 +1,5 @@
+Clone of react-jupyter-notebook without the global CSS.
+
 # react-jupyter-notebook
 
 A simple React component that renders .ipynb files just like how they are rendered by JupyterLab.
